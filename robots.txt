@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-pva6eu.bokupaybymobile.com/sitemap.xml
